@@ -23,7 +23,7 @@ struct SettingsView: View {
           
           GroupBox(
             label:
-              SettingsLabelView(labelText: "Fructus", labelImage: "info.circle")
+              SettingsLabelView(labelText: "Recipes", labelImage: "info.circle")
           ) {
             Divider().padding(.vertical, 4)
             

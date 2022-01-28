@@ -2,8 +2,7 @@
 //  SettingsLabelView.swift
 //  Recipes (iOS)
 //
-//  Created by Lydia Anzures on 1/28/22.
-//
+//  Created by Lydia Anzures
 
 import SwiftUI
 

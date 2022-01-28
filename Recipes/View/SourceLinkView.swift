@@ -2,7 +2,7 @@
 //  SourceLinkView.swift
 //  Recipes (iOS)
 //
-//  Created by Lydia Anzure
+//  Created by Lydia Anzures
 
 import SwiftUI
 
